@@ -1,0 +1,13 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.text-primary {
+    color: #11B3DA !important;
+}
+.bg-primary {
+    background-color: #11B3DA !important;
+}
+.bg-dark {
+    background-color: #313130 !important;
+}
